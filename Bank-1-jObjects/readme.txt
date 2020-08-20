@@ -36,7 +36,7 @@ Las demás configuraciones pueden quedar como por defecto.
 ************************************************
 
 Realizando las configuraciones previas y ya teniendo los archivos necesarios listos para correr
-Se ejecuta el proyecto y este con la previa configuración, abrirá la GUI de JADE.
+Se ejecuta el proyecto y éste con la previa configuración, abrirá la GUI de JADE.
 Se crea y da nombre al agente servidor "BankServerAgent"
-Se crea y da nombre al agente servidor "BankClientAgent"
+Se crea y da nombre al agente cliente "BankClientAgent"
 Al momento de crear estos dos agentes en NetBeans se podrá obeservar el menú y los comandos a utilizar.
