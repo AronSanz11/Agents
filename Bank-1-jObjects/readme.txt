@@ -21,7 +21,7 @@
 Instrucciones para correr el código
 Mediante el IDE NetBeans.
 
-Incluir el archivo binario que JADE.jar en los paquetes de bibliotecas, enlace de descarga:
+Incluir el archivo binario JADE.jar en los paquetes de bibliotecas, enlace de descarga:
 https://jade.tilab.com/download/jade/license/jade-download/?x=30&y=19
 
 Establecer una configuración personalizada de ejecución con las siguientes características:
